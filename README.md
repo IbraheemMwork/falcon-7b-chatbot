@@ -7,6 +7,7 @@ Run Falcon 7B on your preferred IDE
 This was a project for myself to run a Chatbot on my computer. I coded the chatbot myself.
 It was for my own learning. You can take a look at the code. You can see my prompts in the demo image. 
 
+
 <br>
 <br>
 <br>
